@@ -4,7 +4,6 @@
 -  Formado no Tecnico em Informatica.
 -  Experiencia com Java, JS, SQL, hardwares, HTML e Css.
 -  Atualmento estou cursando uma faculdade em Ciencia da Computação.
--  Pronomes: ele/dele.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoIz&show_icons=true&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoIz&layout=compact&langs_count=7&theme=neon)
